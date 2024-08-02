@@ -68,3 +68,73 @@ PID: 8035 END: 1722598110244529920 :git command /home/elpipita/GitHub/UselessROM
 
 PID: 8035 END: 1722598110246692864 :+++++++++++++++NEW COMMAND+++++++++++++++++++ starting new command: init, -u, https://JuStaWoj/UselessROM_android, -b, lineage-21.0, --git-lfs [sid=repo-20240802T112822Z-P00001f63/repo-20240802T112826Z-P00001f63]
 
+PID: 8310 START: 1722598238630447104 :+++++++++++++++NEW COMMAND+++++++++++++++++++ starting new command: init, -u, https://JuStaWoj/UselessROM_android, -b, lineage-21.0, --git-lfs [sid=repo-20240802T113038Z-P00002076/repo-20240802T113038Z-P00002076]
+
+PID: 8310 START: 1722598238634494720 :git command /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git ['git', 'init'] with debug: : export GIT_DIR=/home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git
+: git init 1>| 2>|
+
+PID: 8310 END: 1722598238640783616 :git command /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git ['git', 'init'] with debug: : export GIT_DIR=/home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git
+: git init 1>| 2>|
+
+PID: 8310 START: 1722598238641724416 :git command /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git ['git', 'config', '--file', '/home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git/config', '--includes', '--null', '--list'] with debug: : git config --file /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git/config --includes --null --list 1>| 2>|
+
+PID: 8310 END: 1722598238643642368 :git command /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git ['git', 'config', '--file', '/home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git/config', '--includes', '--null', '--list'] with debug: : git config --file /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git/config --includes --null --list 1>| 2>|
+
+PID: 8310 START: 1722598238643826176 :: parsing /home/elpipita/.gitconfig
+
+PID: 8310 END: 1722598238643904256 :: parsing /home/elpipita/.gitconfig
+
+PID: 8310 START: 1722598238644046592 :git command /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git ['git', 'config', '--file', '/home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git/config', '--includes', '--replace-all', 'filter.lfs.smudge', 'git-lfs smudge --skip -- %f'] with debug: : git config --file /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git/config --includes --replace-all filter.lfs.smudge git-lfs smudge --skip -- %f 1>| 2>|
+
+PID: 8310 END: 1722598238645859072 :git command /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git ['git', 'config', '--file', '/home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git/config', '--includes', '--replace-all', 'filter.lfs.smudge', 'git-lfs smudge --skip -- %f'] with debug: : git config --file /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git/config --includes --replace-all filter.lfs.smudge git-lfs smudge --skip -- %f 1>| 2>|
+
+PID: 8310 START: 1722598238646023424 :git command /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git ['git', 'config', '--file', '/home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git/config', '--includes', '--replace-all', 'filter.lfs.process', 'git-lfs filter-process --skip'] with debug: : git config --file /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git/config --includes --replace-all filter.lfs.process git-lfs filter-process --skip 1>| 2>|
+
+PID: 8310 END: 1722598238647717376 :git command /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git ['git', 'config', '--file', '/home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git/config', '--includes', '--replace-all', 'filter.lfs.process', 'git-lfs filter-process --skip'] with debug: : git config --file /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git/config --includes --replace-all filter.lfs.process git-lfs filter-process --skip 1>| 2>|
+
+PID: 8310 START: 1722598238647878400 :git command /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git ['git', 'config', '--file', '/home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git/config', '--includes', '--unset-all', 'core.bare'] with debug: : git config --file /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git/config --includes --unset-all core.bare 1>| 2>|
+
+PID: 8310 END: 1722598238649563136 :git command /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git ['git', 'config', '--file', '/home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git/config', '--includes', '--unset-all', 'core.bare'] with debug: : git config --file /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git/config --includes --unset-all core.bare 1>| 2>|
+
+PID: 8310 START: 1722598238649717504 :git command /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git ['git', 'config', '--file', '/home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git/config', '--includes', '--replace-all', 'remote.origin.url', 'https://JuStaWoj/UselessROM_android'] with debug: : git config --file /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git/config --includes --replace-all remote.origin.url https://JuStaWoj/UselessROM_android 1>| 2>|
+
+PID: 8310 END: 1722598238651362560 :git command /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git ['git', 'config', '--file', '/home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git/config', '--includes', '--replace-all', 'remote.origin.url', 'https://JuStaWoj/UselessROM_android'] with debug: : git config --file /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git/config --includes --replace-all remote.origin.url https://JuStaWoj/UselessROM_android 1>| 2>|
+
+PID: 8310 START: 1722598238651534080 :git command /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git ['git', 'config', '--file', '/home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git/config', '--includes', '--replace-all', 'remote.origin.fetch', '+refs/heads/*:refs/remotes/origin/*'] with debug: : git config --file /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git/config --includes --replace-all remote.origin.fetch +refs/heads/*:refs/remotes/origin/* 1>| 2>|
+
+PID: 8310 END: 1722598238653151744 :git command /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git ['git', 'config', '--file', '/home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git/config', '--includes', '--replace-all', 'remote.origin.fetch', '+refs/heads/*:refs/remotes/origin/*'] with debug: : git config --file /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git/config --includes --replace-all remote.origin.fetch +refs/heads/*:refs/remotes/origin/* 1>| 2>|
+
+PID: 8310 START: 1722598238653388032 :git command /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git ['git', 'config', '--file', '/home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git/config', '--includes', '--replace-all', 'manifest.platform', 'auto'] with debug: : git config --file /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git/config --includes --replace-all manifest.platform auto 1>| 2>|
+
+PID: 8310 END: 1722598238655038464 :git command /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git ['git', 'config', '--file', '/home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git/config', '--includes', '--replace-all', 'manifest.platform', 'auto'] with debug: : git config --file /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git/config --includes --replace-all manifest.platform auto 1>| 2>|
+
+PID: 8310 START: 1722598238655182592 :git command /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git ['git', 'config', '--file', '/home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git/config', '--includes', '--replace-all', 'repo.git-lfs', 'true'] with debug: : git config --file /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git/config --includes --replace-all repo.git-lfs true 1>| 2>|
+
+PID: 8310 END: 1722598238656838656 :git command /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git ['git', 'config', '--file', '/home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git/config', '--includes', '--replace-all', 'repo.git-lfs', 'true'] with debug: : git config --file /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git/config --includes --replace-all repo.git-lfs true 1>| 2>|
+
+PID: 8310 START: 1722598238657070592 :git command /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git ['git', 'config', '--file', '/home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git/config', '--includes', '--replace-all', 'core.repositoryFormatVersion', '1'] with debug: : git config --file /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git/config --includes --replace-all core.repositoryFormatVersion 1 1>| 2>|
+
+PID: 8310 END: 1722598238658763776 :git command /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git ['git', 'config', '--file', '/home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git/config', '--includes', '--replace-all', 'core.repositoryFormatVersion', '1'] with debug: : git config --file /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git/config --includes --replace-all core.repositoryFormatVersion 1 1>| 2>|
+
+PID: 8310 START: 1722598238658922240 :git command /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git ['git', 'config', '--file', '/home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git/config', '--includes', '--replace-all', 'extensions.preciousObjects', 'true'] with debug: : git config --file /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git/config --includes --replace-all extensions.preciousObjects true 1>| 2>|
+
+PID: 8310 END: 1722598238660565248 :git command /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git ['git', 'config', '--file', '/home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git/config', '--includes', '--replace-all', 'extensions.preciousObjects', 'true'] with debug: : git config --file /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git/config --includes --replace-all extensions.preciousObjects true 1>| 2>|
+
+PID: 8310 START: 1722598238660860672 :git command /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git ['git', 'fetch', '--quiet', 'origin', '--recurse-submodules=no', '--tags', '+refs/heads/lineage-21.0:refs/remotes/origin/lineage-21.0', '+refs/tags/*:refs/tags/*'] with debug: : export GIT_OBJECT_DIRECTORY=/home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git/objects
+: git fetch --quiet origin --recurse-submodules=no --tags +refs/heads/lineage-21.0:refs/remotes/origin/lineage-21.0 +refs/tags/*:refs/tags/* 1>| 2>&1
+
+PID: 8310 END: 1722598238673418496 :git command /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git ['git', 'fetch', '--quiet', 'origin', '--recurse-submodules=no', '--tags', '+refs/heads/lineage-21.0:refs/remotes/origin/lineage-21.0', '+refs/tags/*:refs/tags/*'] with debug: : export GIT_OBJECT_DIRECTORY=/home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git/objects
+: git fetch --quiet origin --recurse-submodules=no --tags +refs/heads/lineage-21.0:refs/remotes/origin/lineage-21.0 +refs/tags/*:refs/tags/* 1>| 2>&1
+
+PID: 8310 START: 1722598238673672448 :git command /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git ['git', 'config', '--get', 'trace2.eventtarget'] with debug: : git config --get trace2.eventtarget 1>| 2>|
+
+PID: 8310 END: 1722598238676264704 :git command /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git ['git', 'config', '--get', 'trace2.eventtarget'] with debug: : git config --get trace2.eventtarget 1>| 2>|
+
+PID: 8310 START: 1722598242677179392 :git command /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git ['git', 'fetch', '--quiet', 'origin', '--recurse-submodules=no', '--tags', '+refs/heads/lineage-21.0:refs/remotes/origin/lineage-21.0', '+refs/tags/*:refs/tags/*'] with debug: : export GIT_OBJECT_DIRECTORY=/home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git/objects
+: git fetch --quiet origin --recurse-submodules=no --tags +refs/heads/lineage-21.0:refs/remotes/origin/lineage-21.0 +refs/tags/*:refs/tags/* 1>| 2>&1
+
+PID: 8310 END: 1722598242690597120 :git command /home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git ['git', 'fetch', '--quiet', 'origin', '--recurse-submodules=no', '--tags', '+refs/heads/lineage-21.0:refs/remotes/origin/lineage-21.0', '+refs/tags/*:refs/tags/*'] with debug: : export GIT_OBJECT_DIRECTORY=/home/elpipita/GitHub/UselessROM_android/UselessROM_android/.repo/manifests.git/objects
+: git fetch --quiet origin --recurse-submodules=no --tags +refs/heads/lineage-21.0:refs/remotes/origin/lineage-21.0 +refs/tags/*:refs/tags/* 1>| 2>&1
+
+PID: 8310 END: 1722598242693031936 :+++++++++++++++NEW COMMAND+++++++++++++++++++ starting new command: init, -u, https://JuStaWoj/UselessROM_android, -b, lineage-21.0, --git-lfs [sid=repo-20240802T113038Z-P00002076/repo-20240802T113038Z-P00002076]
+
